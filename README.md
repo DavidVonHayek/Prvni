@@ -1,2 +1,2 @@
 # Prvni
-první cvičný repo
+první cvičný repo DS
